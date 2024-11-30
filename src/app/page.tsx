@@ -2,9 +2,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import { Card, CardContent } from "@/components/ui/card";
-import { PawPrintIcon as Paw, Heart, Shield, Mail } from "lucide-react";
+import { PawPrintIcon as Paw, Heart, Shield } from "lucide-react";
 import { useState } from "react";
 import { OurStory } from "@/components/our-story";
 import { WhyChooseUs } from "@/components/why-choose-us";
